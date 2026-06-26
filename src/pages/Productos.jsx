@@ -1,0 +1,1 @@
+export default function Productos() { return <h1 className="p-6 text-2xl font-bold">Productos</h1> }

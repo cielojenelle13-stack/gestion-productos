@@ -1,0 +1,1 @@
+ export default function Reportes() { return <h1 className="p-6 text-2xl font-bold">Reportes</h1> }
